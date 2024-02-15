@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 ![hackerMan](https://i.kym-cdn.com/entries/icons/mobile/000/021/807/ig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg)
+
+🌱 I am a Web Developer who is currently learning Cyber Security. Working towards being able to create invulnerable web applications. 
+
+Amongst my other apps, check out my in-browser Pokemon game at https://pokemon-card-website.netlify.app/. Happy gaming!
+
 <!--
 **IvanCastillo1986/IvanCastillo1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
